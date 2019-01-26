@@ -1,0 +1,28 @@
+.table-fill
+{
+	border-collapse: collapse;
+	max-width: 600px;
+	border:none;
+}
+			 
+th
+{
+	color:#D5DDE5;;
+	background:#1b1e24;
+	padding:5px;
+	text-align:center;
+	vertical-align:middle;
+	border:none;
+}
+
+tr:nth-child(odd) td
+{ background:#EBEBEB; }
+
+td
+{
+	background:#FFFFFF;
+	padding:5px;
+	text-align:center;
+	vertical-align:middle;
+	border:none;
+}

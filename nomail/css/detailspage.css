@@ -1,0 +1,26 @@
+.table-fill
+{
+	border-collapse: collapse;
+	max-width: 900px;
+	border:none;
+}
+			 
+th
+{
+	font-weight: bold;
+	text-align: center;
+	width: 225px;
+}
+
+tr:nth-child(odd) td
+{ background:#EBEBEB; }
+
+td
+{
+	background:#FFFFFF;
+	padding:3px;
+	text-align:center;
+	vertical-align:middle;
+	border:none;
+	width: 225px;
+}

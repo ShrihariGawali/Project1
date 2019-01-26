@@ -1,0 +1,17 @@
+<ul class="nobullet">
+	<li><b>&emsp;<a href="adminpage.php">Home</a></b><li><br>
+	<li><b>&emsp;Driver</b><li><br>
+	<li>&emsp;&emsp;&emsp;&emsp;-&emsp;<a href="checkdriverdetail.php">Check Details</a><li>
+	<li>&emsp;&emsp;&emsp;&emsp;-&emsp;<a href="adminnewdriver.php">Add</a><li>
+	<li>&emsp;&emsp;&emsp;&emsp;-&emsp;<a href="deletedriver.php">Delete</a><li><br><hr>
+	
+					
+	<li><b>&emsp;Traffic Police</b><li><br>
+	<li>&emsp;&emsp;&emsp;&emsp;-&emsp;<a href="checkpolicedetail.php">Check Details</a><li>
+	<li>&emsp;&emsp;&emsp;&emsp;-&emsp;<a href="adminnewpolice.php">Add</a><li>
+	<li>&emsp;&emsp;&emsp;&emsp;-&emsp;<a href="deletepolice.php">Delete</a><li><br><hr>
+
+	
+	<li><b>&emsp;<a href="feedbackpage.php">Check Feedback</a></b><li>
+	
+</ul>
